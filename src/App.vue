@@ -1,8 +1,9 @@
 <template>
   <div>
     <lava-lamp
-      speed="5"
-      pattern="gb"
+      speed="50"
+      pattern="rb"
+      rotate
       style="border-radius: 0em; padding: .5em; text-align: center;"
       class="container"
     >

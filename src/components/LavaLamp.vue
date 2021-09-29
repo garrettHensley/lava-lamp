@@ -11,7 +11,7 @@ export default {
     pattern: {
       type: String,
       default: "rb",
-    },
+    }, //
     speed: {
       type: Number,
       default: 10,
